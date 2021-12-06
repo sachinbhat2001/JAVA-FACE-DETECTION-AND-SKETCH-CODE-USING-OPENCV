@@ -11,3 +11,15 @@ The project is divided into two parts:
 
 - OpenCV.
 - Java(any latest vesion will be fine).
+
+
+## Opening an issue
+
+Thank you for taking the time to open an issue, your feedback helps make Hacktoberfest better. Before opening an issue, please be sure that your issue hasn't already been asked by using GitHub search and check out the issue template before submitting it.
+
+Here are a few things that will help us help resolve your issues:
+
+A descriptive title that gives an idea of what your issue refers to
+A thorough description of the issue, (one word descriptions are very hard to understand)
+Screenshots/Videos
+Links (if appropriate)
